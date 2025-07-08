@@ -1,0 +1,3 @@
+ultralytics  # YOLOv8
+opencv-python  # OpenCV for video processing
+torch  # PyTorch for YOLOv8
