@@ -90,6 +90,9 @@ smart-traffic-signal/
 🧠 Reinforcement agent decision outputs
 
 🎥 Bounding boxes on vehicles shown in real time
+
+To Run
+python run_live.py
 ```
 
 ## Technologies Used
